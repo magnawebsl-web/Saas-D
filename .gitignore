@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+.yarn-integrity
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# dotenv environment variable file
+.env
+
+# WordPress files
+/wp-content/uploads/
+*.sql
+
+# OS generated files
+.DS_Store
+Thumbs.db
